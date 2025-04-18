@@ -45,4 +45,5 @@ Este proyecto está bajo la Licencia MIT 📜.
 ## 👨‍💻 Autor
 
 [unDEVtaker](https://github.com/unDEVtaker)
-![unDEVtaker](img/cowboy%20bebop%20eating%20GIF.gif)
+
+![gif](img/cowboy%20bebop%20eating%20GIF.gif)
