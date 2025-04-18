@@ -38,14 +38,11 @@ Este proyecto es una Pokédex interactiva que permite visualizar información de
 2. Abre el archivo index.html en tu navegador 🌐.
 3. Explora la lista de Pokémon y utiliza los filtros para buscar por tipo.
 
-## 👨‍💻 Autor
-
-## 🎥 Vista previa
-
-![Demo de la Pokédex](img/demo.gif)
-
-[unDEVtaker](https://github.com/unDEVtaker)
-
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT 📜.
+
+## 👨‍💻 Autor
+
+[unDEVtaker](https://github.com/unDEVtaker)
+![unDEVtaker](img/cowboy%20bebop%20eating%20GIF.gif)
